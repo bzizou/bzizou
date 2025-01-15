@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/bzizou/">
-    <img src="/github-metrics.svg" />
-  </a>
-</p>
-
 <!--
 **bzizou/bzizou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
